@@ -1,0 +1,19 @@
+Pizza:Thin Crust:10.00:360
+Dosa:with sambhar, chutney.:12.00:100
+Pasta:with Pesto sauce:15.0:400
+Ravioli:with Spinach:14.50:500
+Biryani:vegetable biryani:30.00:450
+test1:wrong
+Curd rice:with pickle:20.00:200
+Butter naan:with veg curry:50.00:350
+Green curry:with vegetables:9.99:290
+:test4 desc:9:100
+Red curry:with vegetables:9.99:280
+Yellow curry:with vegetables:10.0:290
+Pad Thai:with thick noodles:15.00:300
+test2:23.78
+Tomato rice:with pickle:12:250
+test3:ret:23.99:400:678
+Soup:vegetables and rice noodles:8.00:150
+test5::10:100
+test:   : klop:34:678

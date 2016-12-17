@@ -1,0 +1,21 @@
+Curd rice:with pickle:20.00:200
+Green curry:with vegetables:9.99:290
+Red curry:with vegetables:9.99:280
+Yellow curry:with vegetables:10.0:290
+Pizza:Thin Crust:10.00:360
+Dosa:with sambhar:12.00:100
+Pad Thai:with thick noodles:15.00:300
+Ravioli:with Spinach:14.50:500
+Biryani:vegetable biryani:30.00:450
+Singapore noodles:seafood:15.00:280
+Butter naan:with veg curry:50.00:350
+Thai Basil:chicken:9.99:222
+Green salad:kale and spinach:8.00:90
+Enchilada:chicken:15.00:300
+Fruit salad:with ice cream:9.00:120
+Tomato rice:with pickle:12:250
+Soup:vegetables and rice noodles:8.00:150
+Pancake:with maple syrup:12.00:250
+Taco:seafood:10.00:180
+Burrito:with black beans and chicken:10.00:300
+Pasta:with Pesto sauce:15.00:400
